@@ -1,0 +1,57 @@
+.heading{
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(0, 0, 68);
+}
+.form{
+    text-align: center;
+}
+.HM{
+    margin-top: 60px;
+}
+#label{
+    font-size: 30px;
+    color: rgb(0, 0, 68);
+}
+#Weight{
+    height: 30px;
+    width: 200px;
+    border: 2px solid rgb(0, 0, 68);
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+#Weight:placeholder-shown{
+    font-size: 17px;
+    opacity: 0.6;
+}
+#Height{
+    height: 30px;
+    width: 200px;
+    border: 2px solid rgb(0, 0, 68);
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+#Height:placeholder-shown{
+    font-size: 17px;
+    opacity: 0.6;
+}
+.button{
+    height: 45px;
+    width: 110px;
+    font-weight: 500;
+    border-radius: 10px;
+    font-size: 21px;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(0, 0, 68);
+    color: white;
+}
+.result{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 28px;
+    text-decoration: underline;
+    font-weight: 700;
+    color: rgb(0, 0, 68);
+}
